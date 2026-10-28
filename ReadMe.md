@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>- 🔭 **I’m currently working on** building production-ready AI solutions, including Agentic AI systems, RAG pipelines, LLM-powered applications, and real-time Computer Vision systems.<br><br>- 👯 **I’m looking to collaborate on** open-source Generative AI, Agentic AI, LLM applications, and innovative Machine Learning projects.<br><br>- 🤝 **I’m looking for help with** exploring advanced AI architectures, optimizing LLM inference, and scaling intelligent systems.<br><br>- 🌱 **I’m currently learning** multimodal AI, advanced agent orchestration, LLM optimization, and scalable AI infrastructure.<br><br>- 💬 **Ask me about** Python, Machine Learning, Deep Learning, RAG, LangChain, MCP, FastAPI, YOLO, and Computer Vision.<br><br>- ⚡ **Fun fact:** I love turning complex AI research into real-world applications  and debugging until the model finally behaves! 🚀
 
 
